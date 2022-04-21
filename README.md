@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Anshu Sagar
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning blockchain
-- 💞️ I’m looking to collaborate on open source projecta
+- 💞️ I’m looking to collaborate on open source projects
 - 📫 How to reach me ...
 
 <!---
